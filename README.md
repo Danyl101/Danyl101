@@ -9,11 +9,12 @@
 🎶 When I’m not coding, I’m playing piano or working on new music — trying to create harmony between tech and art. I believe that the logic of machine learning and the rhythm of music can coexist in powerful ways.
 
 🔍 Fascinated by:
-- Deepfake Detection & AI Forensics
-- Real-time Predictive Modeling
-- Neural Architectures (LSTM, Transformers, I3D)
-- Scraping the web for intelligence
-- Reverse engineering systems just for the fun of it 🤖
+- Financial Markets & Predictive Modeling
+- High-performance AI like AlphaZero and AlphaFold
+- Bridging the gap between Machine Learning and Real Life
+- Biotech x AI: Merging intelligent systems with biology
+- Building autonomous systems that *learn*, *reason*, and *act*
+
 
 ⚙️ Currently building hybrid AI systems and exploring how models like AlphaZero and GPT can power smarter tools — while always trying to sneak in a jam session on the side.
 
